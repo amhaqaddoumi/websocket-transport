@@ -1,0 +1,12 @@
+{
+  "name": "com.amhaqaddoumi.websocket-transport",
+  "version": "0.0.1",
+  "displayName": "Websocket Transport",
+  "description": "Cross device websocket communication",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Adel Qaddoumi",
+    "email": "a.m.h.a.qaddoumi@llinc.leidenuniv.nl"
+  }
+}
